@@ -1,0 +1,3 @@
+Lapicera,120.5,30
+Cuaderno,450.0,15
+Goma de borrar,80.75,50
